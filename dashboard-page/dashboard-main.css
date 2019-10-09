@@ -40,8 +40,3 @@ section {
 section:nth-child(even) {
   background-color: #ddd;
 }
-
-#login-button {
-  float: right;
-  margin-right: 8%;
-}
